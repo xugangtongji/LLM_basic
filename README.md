@@ -40,8 +40,7 @@
 - [正则化、残差与注意力雏形](02.2.8_正则化残差与注意力雏形.md)
 
 ### 03 · Transformer 与模型架构
-- [从 RNN 到 Transformer](03.1_从RNN到Transformer.md)
-- [Transformer 总体架构](03.1_Transformer总体架构.md)
+- [从 RNN 到 Transformer：总体架构](03.1_Transformer总体架构.md)
 - [Transformer 基本构成](03.2_Transformer基本构成.md)
 - [Self-Attention](03.3_Self-Attention.md)
 - [Multi-Head Attention](03.4_Multi-Head-Attention.md)
@@ -65,10 +64,8 @@
 - [DPO、GRPO 与对齐评估](05.4_DPO_GRPO与对齐评估.md)
 
 ### 06 · 提示工程（Prompt Engineering）
-- [核心推理技巧](06.1_核心推理技巧.md)
-- [Zero-shot / Few-shot / CoT / Self-Consistency](06.1_Zero-shot_Few-shot_CoT_Self-Consistency.md)
-- [高级提示技术](06.2_高级提示技术.md)
-- [高级 Prompt 技术](06.2_高级Prompt技术.md)
+- [核心推理技巧：Zero-shot / Few-shot / CoT / Self-Consistency](06.1_核心推理技巧.md)
+- [高级提示技术（ReAct / ToT / 结构化 Prompt）](06.2_高级提示技术.md)
 - [Prompt 安全与鲁棒性](06.3_Prompt安全与鲁棒性.md)
 
 ### 07 · 检索增强生成（RAG）
